@@ -1,0 +1,36 @@
+.conatiner{
+    text-align: center;
+    margin-top: 20px;
+}
+table{
+    margin: auto;
+}
+body {
+   
+    background-color: deeppink;
+  
+}
+input{
+    font-size: 33px;
+   border: 4px solid;
+   border-radius: 8px;
+}
+button{
+    font-size: 40px;
+    background-color: rgb(153, 153, 145);
+    width: 100px;
+    height: 75px;
+    border-radius: 20px;
+}
+.calculator{
+    border: 4px solid black;
+    border-radius: 8px ;
+    display: inline-block;
+    background-color: rgb(30, 197, 226);
+    padding: 9px;
+
+}
+h1{
+
+    color: rgb(231, 16, 16);
+}
